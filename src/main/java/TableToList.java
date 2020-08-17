@@ -1,7 +1,5 @@
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-
-git
 import java.sql.*;
 import java.util.*;
 
